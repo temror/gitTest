@@ -1,1 +1,1 @@
-console.log('Говно')
+console.log('New')
